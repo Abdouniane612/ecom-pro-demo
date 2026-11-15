@@ -1,0 +1,10 @@
+# Déploiement Render.com — offre gratuite, sans carte bancaire
+# URL obtenue : https://ecom-pro-demo.onrender.com
+services:
+  - type: web
+    name: ecom-pro-demo
+    runtime: python
+    plan: free
+    region: frankfurt
+    buildCommand: "echo 'Aucune dependance a installer'"
+    startCommand: "python3 server.py"

@@ -1,0 +1,7 @@
+.cache/
+.local/
+__pycache__/
+qa/
+tools/
+*.pyc
+ecom-pro-demo.zip

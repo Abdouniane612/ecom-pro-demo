@@ -1,0 +1,74 @@
+[
+ {
+  "handle": "citron-venom",
+  "title": "Citron Venom",
+  "image": "/cdn/shop/files/ChatGPTImageMay30_2025_04_31_37PM.png",
+  "variant_id": "50715400634715",
+  "price": 1999,
+  "compare": 2999
+ },
+ {
+  "handle": "crimson-rose",
+  "title": "Crimson Rose",
+  "image": "/cdn/shop/files/ChatGPTImageMay30_2025_04_25_54PM.png",
+  "variant_id": "50715329757531",
+  "price": 1999,
+  "compare": 2999
+ },
+ {
+  "handle": "free-shipping",
+  "title": "Free Shipping",
+  "image": "/cdn/shop/files/FREESHIPPING.png",
+  "variant_id": "49437818683739",
+  "price": 0,
+  "compare": null
+ },
+ {
+  "handle": "luna-smoke-copy",
+  "title": "Luna Smoke",
+  "image": "/cdn/shop/files/ChatGPTImageMay30_2025_04_31_30PM.png",
+  "variant_id": "51857650745691",
+  "price": 0,
+  "compare": null
+ },
+ {
+  "handle": "luna-smoke",
+  "title": "Luna Smoke",
+  "image": "/cdn/shop/files/ChatGPTImageMay30_2025_04_31_30PM.png",
+  "variant_id": "50715411513691",
+  "price": 1999,
+  "compare": 2999
+ },
+ {
+  "handle": "noir-dusk",
+  "title": "Noir Dusk",
+  "image": "/cdn/shop/files/Noir_Dusk.png",
+  "variant_id": "50715323597147",
+  "price": 1999,
+  "compare": 2999
+ },
+ {
+  "handle": "shipping-protection",
+  "title": "Shipping protection",
+  "image": "/cdn/shop/files/pro-shipping-protection.png",
+  "variant_id": "49437819109723",
+  "price": 495,
+  "compare": null
+ },
+ {
+  "handle": "travel-pouch-bag-copy",
+  "title": "Travel Pouch Bag (Copy)",
+  "image": "/cdn/shop/files/wTVR_a635b46d-e15c-4865-9fc8-daabf0150843.jpg",
+  "variant_id": "50831278440795",
+  "price": 0,
+  "compare": null
+ },
+ {
+  "handle": "travel-pouch-bag",
+  "title": "Travel Pouch Bag",
+  "image": "/cdn/shop/files/wTVR_a635b46d-e15c-4865-9fc8-daabf0150843.jpg",
+  "variant_id": "49437819240795",
+  "price": 0,
+  "compare": null
+ }
+]
